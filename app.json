@@ -1,6 +1,6 @@
 {
-  "name": "Shuttle V3",
-  "description": "A simple web proxy",
+  "name": "easynebula",
+  "description": "Deployable web service",
   "image": "heroku/nodejs",
   "addons": [],
   "buildpacks": [
